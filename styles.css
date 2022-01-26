@@ -106,8 +106,8 @@ body {
 
 
 .wrapper .social_media ul li {
-    width        : 45%;
-    height       : 45%;
+    width        : 20%;
+    height       : 20%;
     background   : linear-gradient(to right, #FFBF65, #6C88C4);
     margin-right : 10px;
     border-radius: 5px;
@@ -120,4 +120,5 @@ body {
     color    : white;
     display  : block;
     font-size: 18px;
+    
 }
